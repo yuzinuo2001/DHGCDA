@@ -1,0 +1,313 @@
+Abdominal aortic aneurysm
+Acne
+Acute Stanford type A aortic dissection
+Acute ischemic stroke
+Acute kidney injury
+Acute lung injury
+Acute lymphoblastic leukemia
+Acute myeloid leukemia
+Acute myocardial infarction
+Acute pancreatitis
+Acute promyelocytic leukemia
+Acute respiratory distress syndrome
+Adrenocortical carcinoma
+Age-related cataract
+Age-related macular degeneration
+Alcoholic hepatitis
+Alcoholic liver disease
+Allergic rhinitis
+Alzheimer's disease
+Ameloblastoma
+Amyotrophic lateral sclerosis
+Anal squamous cell carcinoma
+Angiogenesis
+Angiosarcoma
+Anorectal malformation
+Aortic valve calcification
+Asthma
+Atherosclerosis
+Atrial fibrillation
+Autism spectrum disorder
+Avian leukosis virus
+Axial spondyloarthritis
+Basal cell carcinoma
+Bedsore
+Bipolar disorder
+Bladder cancer
+Bladder carcinoma
+Bladder urothelial carcinoma
+Bone cancer
+Breast Carcinoma
+Breast cancer
+Breast carcinoma
+Bronchopulmonary dysplasia
+Cancer
+Carcinogenesis
+Cardiac fibroblasts
+Cardiac fibrosis
+Cardiac hypertrophy
+Cardiotoxicity
+Cardiovascular disease
+Cellular senescence
+Cerebral infarction
+Cerebral ischemia
+Cervical adenocarcinoma
+Cervical cancer
+Cervical carcinoma
+Cervical squamous cell carcinoma
+Cholangiocarcinoma
+Cholesteatoma
+Chondrocyte apoptosis
+Chronic hepatitis B
+Chronic lymphocytic leukemia
+Chronic myeloid leukemia
+Chronic obstructive pulmonary disease
+Clear cell renal cell carcinoma
+Cleft palate
+Colon cancer
+Colorectal cancer
+Congenital heart disease
+Conjunctival melanoma
+Corneal neovascularization
+Coronary artery disease
+Coronary heart disease
+Craniocerebral trauma
+Crohn disease
+Cryptococcal meningitis
+Cutaneous squamous cell carcinoma
+Demyelinating disease
+Dengue fever
+Depression
+Diabetes mellitus
+Diabetic cardiomyopathy
+Diabetic cataract
+Diabetic foot ulcer
+Diabetic kidney disease
+Diabetic nephropathy
+Diabetic neuropathy
+Diabetic retinopathy
+Diffuse large B-cell lymphoma
+Dilated cardiomyopathy
+Down's syndrome
+Doxorubicin-Induced cardiotoxicity
+Duchenne muscular dystrophy
+Early allograft dysfunction
+Ebola virus disease
+Encephalitis
+Endometrial cancer
+Endometrial carcinoma
+Endometriosis
+Endplate cartilage degeneration
+Epilepsy
+Epithelial ovarian cancer
+Esophageal cancer
+Esophageal carcinoma
+Esophageal squamous cell carcinoma
+Essential hypertension
+Facet joint osteoarthritis
+Fetal growth restriction
+Focal segmental glomerulosclerosis
+Gallbladder cancer
+Gallbladder carcinoma
+Gastric adenocarcinoma
+Gastric cancer
+Gastric carcinoma
+Gastrointestinal stromal tumour
+Gestational diabetes mellitus
+Glaucoma
+Glioblastoma
+Glioma
+Haemangiomas
+Hashimoto's thyroiditis
+Head and neck squamous cell carcinoma
+Heart disease
+Heart failure
+Hepatic fibrosis
+Hepatic steatosis
+Hepatitis B
+Hepatoblastoma
+Hepatocellular carcinoma
+Hepatoma
+Hirschsprung disease
+Human aortic smooth muscle cell
+Hyperglycemia
+Hypertension
+Hypertrophic cardiomyopathy
+Hypertrophic scar
+Hypopharyngeal carcinoma
+Hypopharyngeal squamous cell carcinoma
+Hypoxia
+Hypoxia-induced cardiomyocyte injuries
+Hypoxic-ischaemic encephalopathy
+Idiopathic membranous nephropathy
+Idiopathic pulmonary arterial hypertension
+Idiopathic pulmonary fibrosis
+Immunosenescence
+Infantile hemangioma
+Inflamed corneas
+Inflammation
+Inflammatory bowel disease
+Inflammatory response
+Influenza A virus infection
+Insulin resistance
+Intervertebral disc degeneration
+Intervertebral disc disease
+Intervertebral disk degeneration
+Intracerebral hemorrhage
+Intracranial aneurysm
+Intrahepatic cholangiocarcinoma
+Intrauterine adhesions
+Ischemia reperfusion injury
+Ischemia-reperfusion injury
+Ischemic brain after stroke
+Ischemic heart disease
+Ischemic stroke
+Kashin-Beck disease
+Kawasaki disease
+Keloid
+Kidney cancer
+Kidney injury
+Laryngeal cancer
+Laryngeal squamous cell cancer
+Laryngeal squamous cell carcinoma
+Laryngocarcinoma
+Lead-induced neuronal cell apoptosis
+Leukemia
+Leukoaraiosis
+Lipopolysaccharide
+Liver cancer
+Liver fibrosis
+Liver injury
+Lubrication disorder
+Lung adenocarcinoma
+Lung cancer
+Lung squamous cell carcinoma
+Lupus nephritis
+Major depressive disorder
+Malignant melanoma
+Mantle cell lymphoma
+Medulloblastoma
+Melanoma
+Moyamoya disease
+Mucoepidermoid carcinoma
+Multiple myeloma
+Multiple sclerosis
+Multiple system atrophy
+Myocardial fibrosis
+Myocardial infarction
+Myocardial injury
+Myocardial ischemia
+Myocarditis
+Myopia
+Nasopharyngeal cancer
+Nasopharyngeal carcinoma
+Neointimal hyperplasia
+Nervous inflammatory diseases or immune disorders
+Neuroblastoma
+Neuroinflammatory disorders
+Neuronal cell injury
+Neuronal injury
+Neuropathic pain
+Neurotoxicity and neuroinflammation
+Non-alcoholic fatty liver disease
+Non-obstructive azoospermia
+Non-small cell lung cancer
+Nonalcoholic steatohepatitis
+Nonfunctioning pituitary adenomas
+Obesity
+Oral cancer
+Oral mucosal melanoma
+Oral squamous cell carcinoma
+Osteoarthritis
+Osteogenesis
+Osteoporosis
+Osteosarcoma
+Ovarian aging
+Ovarian cancer
+Ovarian carcinoma
+Ovarian endometriosis
+Oxidative injury
+Oxygen-induced retinopathy
+Pancreatic cancer
+Pancreatic ductal adenocarcinoma
+Papillary thyroid carcinoma
+Papillary thyroid microcarcinoma
+Parathyroid adenoma
+Parathyroid carcinoma
+Parkinson's disease
+Periodontitis
+Peripheral nerve injury
+Periventricular white matter damage
+Photoaging
+Pituitary adenoma
+Pneumonia
+Polarized macrophages
+Polycystic ovary syndrome
+Postmenopausal osteoporosis
+Preeclampsia
+Premature ovarian insufficiency
+Pressure ulcer
+Primary Sjogren's Syndrome
+Primary biliary cirrhosis
+Primary great saphenous vein varicosities
+Primary hepatic carcinoma
+Proliferative diabetic retinopathy
+Proliferative vitreoretinopathy
+Prostate adenocarcinoma
+Prostate cancer
+Psoriasis
+Pterygium
+Pulmonary arterial hypertension
+Pulmonary fibrosis
+Pulmonary hypertension
+Pulmonary tuberculosis
+Radiation-induced liver disease
+Rectal cancer
+Renal carcinoma
+Renal cell carcinoma
+Repeated implantation failure
+Retinal neurodegeneration
+Retinal vascular dysfunction
+Retinoblastoma
+Rhabdomyosarcoma
+Rheumatic heart disease
+Rheumatoid arthritis
+Salivary adenoid cystic carcinoma
+Salpingitis
+Scar
+Schizophrenia
+Scoliosis
+Senescence
+Senile dementia
+Sepsis
+Sepsis-induced liver damage
+Silicosis
+Skin melanoma
+Small cell lung cancer
+Spinal cord injury
+Steroid-induced osteonecrosis of the femoral head
+Stomach adenocarcinoma
+Stroke
+Systemic lupus erythematosus
+T cell acute lymphoblastic leukemia
+T-cell lymphoblastic lymphoma
+T2DM with depression
+Temporal lobe epilepsy
+Temporomandibular joint osteoarthritis
+Thoracic aortic dissection
+Thyroid cancer
+Thyroid carcinoma
+Tongue squamous cell carcinoma
+Trauma-induced osteonecrosis of femoral head
+Traumatic brain injury
+Triple negative breast cancer
+Tuberculosis
+Type 1 diabetes mellitus
+Type 2 diabetes mellitus
+Ulcerative colitis
+Uterine leiomyoma
+Uveal melanoma
+Vascular disease
+Vascular endothelial dysfunction
+Vein graft
+Ventricular septal defect
