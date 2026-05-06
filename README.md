@@ -1,3 +1,10 @@
+###DHGCDA
+
+## Introduction
+
+DHGCDA is a dual-channel hypergraph learning framework for circRNA-disease association prediction. It integrates multiple biological views and jointly models node-level and hyperedge-level information to capture higher-order relationships between circRNAs and diseases.
+
+
 ## File Contents
 
 - `main_GPU.py`  
@@ -19,6 +26,7 @@ By default, the scripts depend on the following contents under the `data/` direc
 - hypergraph `pickle` files in `hyg_new/`
 - circRNA similarity files
 - miRNA-disease association files
+
 
 ## Usage
 
