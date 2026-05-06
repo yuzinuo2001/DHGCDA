@@ -1,6 +1,3 @@
-# DHGCDA 整理版说明
-
-本文件夹保存的是 DHGCDA 项目核心代码的整理版副本，用于开源前清理与说明。整理过程中未修改项目根目录下的原始 `main_GPU.py`、`model_GPU.py`、`build_hyg.py`，这里只保留用于发布的复制版本。
 
 ## 文件内容
 
@@ -13,31 +10,9 @@
 - `data/`
   整理版脚本当前依赖的数据目录。
 
-## 本整理版做了什么
-
-- 删除了注释与说明性 docstring
-- 将一部分核心变量名按论文符号做了统一
-- 保持原有训练流程、数据读取方式、模型结构、超参数含义与计算逻辑不变
-
-## 与论文一致的核心命名
-
-以下是整理版中使用的部分核心命名：
-
-- `G_c`：circRNA-centric association hypergraph
-- `G_d`：disease-centric association hypergraph
-- `G_cc`：circRNA sequence similarity hypergraph
-- `G_dd`：disease similarity hypergraph
-- `G_mc`：miRNA-mediated circRNA hypergraph
-- `G_md`：miRNA-associated disease hypergraph
-- `S_cc`：circRNA 相似性矩阵
-- `S_dd`：disease 相似性矩阵或重构目标矩阵
-- `Z_c`、`Z_d`：最终 circRNA / disease 表示
-- `z_ij`：circRNA-disease 配对表示
-- `L_pred`、`L_cc`、`L_dd`、`L_total`：预测损失、重构损失与总损失
-
 ## 数据目录要求
 
-当前脚本默认依赖 `data/` 目录下的以下内容：
+默认依赖 `data/` 目录下的以下内容：
 
 - circRNA 与 disease ID 文件
 - embedding 文件
@@ -55,7 +30,6 @@
 ```bash
 python build_hyg.py
 ```
-
 运行后会在 `hyg_new/` 下生成 `hyg_dict0.pickle` 到 `hyg_dict4.pickle`。
 
 ### 2. 训练与测试
@@ -78,7 +52,7 @@ python main_GPU.py
 - `--lr`
 - `--exp_tag`
 
-当前整理版脚本中的默认核心设置为：
+当前脚本中的默认核心设置为：
 
 - `epochs = 100`
 - `lr = 0.004`
@@ -100,6 +74,4 @@ python main_GPU.py
 ## 说明与注意事项
 
 - `main_GPU.py` 通过 `from model_GPU import *` 导入同目录下的 `model_GPU.py`，因此两者应保持在同一目录中
-- 整理版文件已经通过 Python 语法检查
-- `build_hyg.py` 中仍保留了部分原始环境下的绝对路径设置。如果要正式开源或在其他机器上运行，建议将这些路径手动改为可移植的相对路径
-- 本文件夹的目标是提供更适合发布的清理版代码副本，不是对原实现做功能重写
+- `build_hyg.py` 中仍保留了部分原始环境下的绝对路径设置。如果要在其他机器上运行，建议将这些路径手动改为可移植的相对路径
